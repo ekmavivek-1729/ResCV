@@ -4,7 +4,7 @@ body{font-family: 'Montserrat', sans-serif; }
 
 #page {
     min-height: auto;
-    width: auto;
+    width: 60%;
     min-width: auto;
     background: whitesmoke;
     margin: 50px auto;
